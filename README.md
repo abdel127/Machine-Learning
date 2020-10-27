@@ -1,3 +1,3 @@
 # Machine Learning Projects
 
-### 1. Partnership - Solving complex dynamic constraint satisfaction problems.
+### 1. Partnering - Solving complex dynamic constraint satisfaction problems.
