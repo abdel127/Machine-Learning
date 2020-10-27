@@ -7,3 +7,4 @@ two constraints: each dancer has their own preferences/constraints of who they w
 at a specific skill level, this has to be taken into account so there is not a skill difference bigger than two levels in one partnership. A partnership is a two way
 relationship, meaning if {X1} is partnered with (has a value of) {X2}, then {X2} is also partnered with {X1}.
 
+### Full research paper available in the PDF.
